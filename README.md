@@ -60,7 +60,7 @@ wait
 unpause
 ```
 ## 13-kill
-  **Matar um ou mais containers em execução**
+  **Matar um ou mais contêiners em execução**
 ```bash
 kill
 ```
